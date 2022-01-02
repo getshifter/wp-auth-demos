@@ -37,8 +37,8 @@ cp .env.example .env
 node static.js
 
 {
-  title: 'example-foo-bar-baz.on.getshifter.io',
-  description: 'Just another WordPress site',
+  title: 'Shifter Static',
+  description: 'Just another static WordPress site',
   url: 'https://foo-bar-baz.static.getshifter.net',
   email: 'foo@bar.baz',
   timezone: '',
@@ -59,4 +59,27 @@ node static.js
 ### Shifter Headless
 ```
 node headless.js
+
+{
+  title: 'Shifter Headless',
+  description: 'Just another headless WordPress site',
+  url: 'https://foo-bar-baz.hl-b.getshifter.co',
+  email: 'foo@bar.baz',
+  timezone: '',
+  date_format: 'F j, Y',
+  time_format: 'g:i a',
+  start_of_week: 1,
+  language: '',
+  use_smilies: true,
+  default_category: 1,
+  default_post_format: '0',
+  posts_per_page: 10,
+  default_ping_status: 'open',
+  default_comment_status: 'open',
+  site_logo: null
+}
+
+
+Title: 1/2/2022, 1:33:59 PM
+View Post: https://933086aaa04f43f258d862b098335efb10c6cdd2.hl-b.getshifter.co/wp-admin/post.php?action=edit&post=31
 ```
