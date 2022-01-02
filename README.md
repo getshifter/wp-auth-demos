@@ -35,6 +35,25 @@ cp .env.example .env
 ### Shifter Static
 ```
 node static.js
+
+{
+  title: 'example-foo-bar-baz.on.getshifter.io',
+  description: 'Just another WordPress site',
+  url: 'https://foo-bar-baz.static.getshifter.net',
+  email: 'foo@bar.baz',
+  timezone: '',
+  date_format: 'F j, Y',
+  time_format: 'g:i a',
+  start_of_week: 1,
+  language: 'en_US',
+  use_smilies: true,
+  default_category: 1,
+  default_post_format: '0',
+  posts_per_page: 10,
+  default_ping_status: 'open',
+  default_comment_status: 'open',
+  site_logo: null
+}
 ```
 
 ### Shifter Headless
