@@ -18,7 +18,7 @@ npm i
 2. [An active Shifter Account](https://go.getshifter.io/sites)
 2. Shifter Headless and Static sites
 
-## WordPressアプリケーションのパスワード作成
+## Creating passwords for WordPress applications
 > アプリケーションパスワードの作成
 
 [Integration Guide on WP.org](https://make.wordpress.org/core/2020/11/05/application-passwords-integration-guide/)
