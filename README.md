@@ -1,4 +1,4 @@
-# WP REST API Auth Demos
+# WP REST API Auth Demos on Shifter
 
 Examples for authenticated WordPress REST API requests using Shifter Headless and Static.
 
